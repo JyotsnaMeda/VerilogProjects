@@ -1,6 +1,6 @@
 # VerilogProjects
 
-In the Repo, the projects done as a part of EICT Academy MNIT are included.
+In this Repo, the projects done as a part of EICT Academy MNIT *Online VLSI Training Program* are included.
   - Module 1: 8_bit Booth's Multiplier 
       This file is included as "Booth_Multiplier.v". 
       The output waveform obtained after simulation is included as "booth_output_waveform.PNG".
